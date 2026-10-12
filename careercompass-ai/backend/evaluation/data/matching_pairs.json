@@ -1,0 +1,5055 @@
+[
+ {
+  "profile": "ml_0",
+  "profile_skills": [
+   "Statistics",
+   "Pandas",
+   "NumPy",
+   "Deep Learning",
+   "Machine Learning"
+  ],
+  "jobs": [
+   {
+    "id": "ml_0",
+    "skills": [
+     "Statistics",
+     "Deep Learning",
+     "NumPy",
+     "Machine Learning",
+     "Python",
+     "PyTorch"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "ml_1",
+    "skills": [
+     "Scikit-learn",
+     "Python",
+     "NumPy",
+     "PyTorch",
+     "Pandas"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "ml_2",
+    "skills": [
+     "Scikit-learn",
+     "NumPy",
+     "Python",
+     "PyTorch",
+     "Deep Learning"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_0",
+    "skills": [
+     "Python",
+     "LLMs",
+     "Prompt Engineering",
+     "Vector Databases"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_1",
+    "skills": [
+     "Hugging Face",
+     "RAG",
+     "LangChain",
+     "Vector Databases"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_2",
+    "skills": [
+     "LangChain",
+     "FastAPI",
+     "RAG",
+     "Hugging Face"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_0",
+    "skills": [
+     "Excel",
+     "Power BI",
+     "Python",
+     "Tableau"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_1",
+    "skills": [
+     "Excel",
+     "Python",
+     "Tableau",
+     "Pandas",
+     "Data Visualization"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_2",
+    "skills": [
+     "Statistics",
+     "SQL",
+     "Pandas",
+     "Data Visualization",
+     "Python",
+     "Excel"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_0",
+    "skills": [
+     "FastAPI",
+     "Docker",
+     "Python",
+     "Git"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_1",
+    "skills": [
+     "Python",
+     "REST APIs",
+     "Redis",
+     "System Design",
+     "Docker",
+     "Git"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_2",
+    "skills": [
+     "Redis",
+     "Docker",
+     "Python",
+     "FastAPI",
+     "REST APIs",
+     "PostgreSQL"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_0",
+    "skills": [
+     "Git",
+     "JavaScript",
+     "HTML/CSS",
+     "Tailwind CSS",
+     "Next.js"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_1",
+    "skills": [
+     "React",
+     "Tailwind CSS",
+     "Next.js",
+     "JavaScript",
+     "Node.js"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_2",
+    "skills": [
+     "Tailwind CSS",
+     "Next.js",
+     "TypeScript",
+     "React"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_0",
+    "skills": [
+     "CI/CD",
+     "Python",
+     "AWS",
+     "Kubernetes",
+     "Terraform",
+     "Git"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_1",
+    "skills": [
+     "Git",
+     "Docker",
+     "CI/CD",
+     "Terraform",
+     "Kubernetes",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_2",
+    "skills": [
+     "AWS",
+     "Docker",
+     "Kubernetes",
+     "Terraform",
+     "CI/CD"
+    ],
+    "relevant": false
+   }
+  ]
+ },
+ {
+  "profile": "ml_1",
+  "profile_skills": [
+   "Machine Learning",
+   "Python",
+   "Statistics",
+   "Deep Learning",
+   "Pandas",
+   "NumPy"
+  ],
+  "jobs": [
+   {
+    "id": "ml_0",
+    "skills": [
+     "Deep Learning",
+     "PyTorch",
+     "Scikit-learn",
+     "Pandas",
+     "Python",
+     "NumPy"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "ml_1",
+    "skills": [
+     "Pandas",
+     "NumPy",
+     "Deep Learning",
+     "Machine Learning"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "ml_2",
+    "skills": [
+     "Deep Learning",
+     "Scikit-learn",
+     "NumPy",
+     "Pandas"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_0",
+    "skills": [
+     "Hugging Face",
+     "Prompt Engineering",
+     "Vector Databases",
+     "LLMs"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_1",
+    "skills": [
+     "RAG",
+     "FastAPI",
+     "LLMs",
+     "Hugging Face",
+     "Prompt Engineering"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_2",
+    "skills": [
+     "LangChain",
+     "FastAPI",
+     "LLMs",
+     "Prompt Engineering",
+     "Vector Databases",
+     "RAG"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_0",
+    "skills": [
+     "Data Visualization",
+     "Statistics",
+     "SQL",
+     "Power BI",
+     "Python"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_1",
+    "skills": [
+     "Excel",
+     "SQL",
+     "Statistics",
+     "Tableau"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_2",
+    "skills": [
+     "Pandas",
+     "Tableau",
+     "Power BI",
+     "Statistics"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_0",
+    "skills": [
+     "FastAPI",
+     "System Design",
+     "REST APIs",
+     "Python",
+     "Git"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_1",
+    "skills": [
+     "System Design",
+     "FastAPI",
+     "Git",
+     "Redis"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_2",
+    "skills": [
+     "REST APIs",
+     "PostgreSQL",
+     "System Design",
+     "Git",
+     "Python",
+     "Docker"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_0",
+    "skills": [
+     "Next.js",
+     "TypeScript",
+     "React",
+     "JavaScript",
+     "Node.js"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_1",
+    "skills": [
+     "Node.js",
+     "HTML/CSS",
+     "Tailwind CSS",
+     "Git"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_2",
+    "skills": [
+     "React",
+     "HTML/CSS",
+     "Tailwind CSS",
+     "TypeScript"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_0",
+    "skills": [
+     "Linux",
+     "AWS",
+     "Docker",
+     "Terraform",
+     "CI/CD"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_1",
+    "skills": [
+     "AWS",
+     "Docker",
+     "Git",
+     "Python",
+     "Terraform"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_2",
+    "skills": [
+     "Kubernetes",
+     "Terraform",
+     "Linux",
+     "Git",
+     "Python"
+    ],
+    "relevant": false
+   }
+  ]
+ },
+ {
+  "profile": "ml_2",
+  "profile_skills": [
+   "Machine Learning",
+   "Pandas",
+   "NumPy",
+   "Scikit-learn",
+   "Data Visualization",
+   "HTML/CSS"
+  ],
+  "jobs": [
+   {
+    "id": "ml_0",
+    "skills": [
+     "Deep Learning",
+     "Python",
+     "Statistics",
+     "Pandas",
+     "PyTorch"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "ml_1",
+    "skills": [
+     "Python",
+     "PyTorch",
+     "Pandas",
+     "NumPy",
+     "Statistics"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "ml_2",
+    "skills": [
+     "PyTorch",
+     "Pandas",
+     "NumPy",
+     "Python",
+     "Deep Learning",
+     "Statistics"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_0",
+    "skills": [
+     "LLMs",
+     "RAG",
+     "LangChain",
+     "Prompt Engineering"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_1",
+    "skills": [
+     "Hugging Face",
+     "LangChain",
+     "Prompt Engineering",
+     "Vector Databases",
+     "Python"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_2",
+    "skills": [
+     "Python",
+     "RAG",
+     "Vector Databases",
+     "Hugging Face",
+     "LangChain",
+     "FastAPI"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_0",
+    "skills": [
+     "Excel",
+     "Power BI",
+     "Statistics",
+     "Pandas"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_1",
+    "skills": [
+     "SQL",
+     "Tableau",
+     "Pandas",
+     "Excel",
+     "Statistics"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_2",
+    "skills": [
+     "Tableau",
+     "Pandas",
+     "Data Visualization",
+     "Power BI",
+     "Statistics",
+     "SQL"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_0",
+    "skills": [
+     "Redis",
+     "Git",
+     "PostgreSQL",
+     "REST APIs",
+     "Docker"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_1",
+    "skills": [
+     "Docker",
+     "System Design",
+     "REST APIs",
+     "FastAPI"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_2",
+    "skills": [
+     "Docker",
+     "REST APIs",
+     "Redis",
+     "System Design",
+     "PostgreSQL"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_0",
+    "skills": [
+     "React",
+     "HTML/CSS",
+     "Tailwind CSS",
+     "JavaScript"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_1",
+    "skills": [
+     "Tailwind CSS",
+     "HTML/CSS",
+     "React",
+     "TypeScript",
+     "Node.js"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_2",
+    "skills": [
+     "Tailwind CSS",
+     "Git",
+     "HTML/CSS",
+     "Node.js",
+     "TypeScript",
+     "React"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_0",
+    "skills": [
+     "Docker",
+     "Linux",
+     "AWS",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_1",
+    "skills": [
+     "AWS",
+     "Python",
+     "Linux",
+     "Terraform",
+     "Docker",
+     "Git"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_2",
+    "skills": [
+     "Git",
+     "CI/CD",
+     "Kubernetes",
+     "Docker"
+    ],
+    "relevant": false
+   }
+  ]
+ },
+ {
+  "profile": "ml_3",
+  "profile_skills": [
+   "Pandas",
+   "PyTorch",
+   "Machine Learning",
+   "Python",
+   "NumPy",
+   "FastAPI"
+  ],
+  "jobs": [
+   {
+    "id": "ml_0",
+    "skills": [
+     "Deep Learning",
+     "Python",
+     "Statistics",
+     "Machine Learning",
+     "NumPy",
+     "Pandas"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "ml_1",
+    "skills": [
+     "Scikit-learn",
+     "Deep Learning",
+     "Python",
+     "Pandas",
+     "PyTorch"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "ml_2",
+    "skills": [
+     "Pandas",
+     "Scikit-learn",
+     "PyTorch",
+     "NumPy"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_0",
+    "skills": [
+     "RAG",
+     "LangChain",
+     "FastAPI",
+     "LLMs",
+     "Python",
+     "Vector Databases"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_1",
+    "skills": [
+     "Prompt Engineering",
+     "LLMs",
+     "LangChain",
+     "FastAPI",
+     "Hugging Face",
+     "RAG"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_2",
+    "skills": [
+     "Prompt Engineering",
+     "Vector Databases",
+     "Hugging Face",
+     "FastAPI"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_0",
+    "skills": [
+     "Data Visualization",
+     "Tableau",
+     "Python",
+     "Excel",
+     "SQL"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_1",
+    "skills": [
+     "Excel",
+     "Data Visualization",
+     "Pandas",
+     "Power BI",
+     "SQL",
+     "Python"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_2",
+    "skills": [
+     "Python",
+     "Tableau",
+     "Data Visualization",
+     "SQL",
+     "Pandas",
+     "Power BI"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_0",
+    "skills": [
+     "Python",
+     "Docker",
+     "PostgreSQL",
+     "FastAPI"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_1",
+    "skills": [
+     "FastAPI",
+     "Docker",
+     "Python",
+     "REST APIs",
+     "Git"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_2",
+    "skills": [
+     "Python",
+     "REST APIs",
+     "FastAPI",
+     "PostgreSQL",
+     "Redis"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_0",
+    "skills": [
+     "HTML/CSS",
+     "Node.js",
+     "Git",
+     "Next.js",
+     "TypeScript"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_1",
+    "skills": [
+     "React",
+     "Next.js",
+     "Tailwind CSS",
+     "TypeScript",
+     "HTML/CSS"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_2",
+    "skills": [
+     "HTML/CSS",
+     "Node.js",
+     "Next.js",
+     "Git",
+     "Tailwind CSS",
+     "React"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_0",
+    "skills": [
+     "Git",
+     "Python",
+     "AWS",
+     "Kubernetes",
+     "Linux",
+     "Docker"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_1",
+    "skills": [
+     "AWS",
+     "Python",
+     "CI/CD",
+     "Kubernetes",
+     "Terraform",
+     "Linux"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_2",
+    "skills": [
+     "Docker",
+     "AWS",
+     "CI/CD",
+     "Python"
+    ],
+    "relevant": false
+   }
+  ]
+ },
+ {
+  "profile": "genai_0",
+  "profile_skills": [
+   "Python",
+   "Vector Databases",
+   "LangChain",
+   "Prompt Engineering",
+   "Hugging Face",
+   "LLMs"
+  ],
+  "jobs": [
+   {
+    "id": "ml_0",
+    "skills": [
+     "Scikit-learn",
+     "Python",
+     "NumPy",
+     "Pandas",
+     "Deep Learning",
+     "Machine Learning"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "ml_1",
+    "skills": [
+     "Pandas",
+     "Statistics",
+     "PyTorch",
+     "Machine Learning",
+     "Scikit-learn"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "ml_2",
+    "skills": [
+     "Statistics",
+     "NumPy",
+     "Scikit-learn",
+     "Python",
+     "Machine Learning"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_0",
+    "skills": [
+     "Python",
+     "RAG",
+     "LLMs",
+     "Hugging Face",
+     "Vector Databases"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_1",
+    "skills": [
+     "RAG",
+     "LLMs",
+     "Python",
+     "Hugging Face"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_2",
+    "skills": [
+     "FastAPI",
+     "LLMs",
+     "Vector Databases",
+     "LangChain",
+     "Python"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_0",
+    "skills": [
+     "Excel",
+     "Pandas",
+     "Statistics",
+     "Python",
+     "Tableau"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_1",
+    "skills": [
+     "Power BI",
+     "Python",
+     "Statistics",
+     "Data Visualization",
+     "SQL",
+     "Excel"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_2",
+    "skills": [
+     "Pandas",
+     "Data Visualization",
+     "Statistics",
+     "Python",
+     "Excel",
+     "Tableau"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_0",
+    "skills": [
+     "Docker",
+     "FastAPI",
+     "REST APIs",
+     "Redis"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_1",
+    "skills": [
+     "PostgreSQL",
+     "REST APIs",
+     "Git",
+     "System Design",
+     "Redis",
+     "Docker"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_2",
+    "skills": [
+     "Git",
+     "REST APIs",
+     "Redis",
+     "System Design",
+     "Python",
+     "Docker"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_0",
+    "skills": [
+     "HTML/CSS",
+     "Git",
+     "JavaScript",
+     "Tailwind CSS"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_1",
+    "skills": [
+     "React",
+     "TypeScript",
+     "Next.js",
+     "Node.js",
+     "Tailwind CSS"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_2",
+    "skills": [
+     "Next.js",
+     "Git",
+     "Tailwind CSS",
+     "JavaScript"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_0",
+    "skills": [
+     "CI/CD",
+     "AWS",
+     "Terraform",
+     "Linux"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_1",
+    "skills": [
+     "Kubernetes",
+     "Terraform",
+     "AWS",
+     "Linux",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_2",
+    "skills": [
+     "Python",
+     "Docker",
+     "Git",
+     "Terraform"
+    ],
+    "relevant": false
+   }
+  ]
+ },
+ {
+  "profile": "genai_1",
+  "profile_skills": [
+   "Hugging Face",
+   "LLMs",
+   "Prompt Engineering",
+   "FastAPI",
+   "Python",
+   "LangChain"
+  ],
+  "jobs": [
+   {
+    "id": "ml_0",
+    "skills": [
+     "NumPy",
+     "Deep Learning",
+     "Python",
+     "Statistics"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "ml_1",
+    "skills": [
+     "Scikit-learn",
+     "Deep Learning",
+     "Pandas",
+     "Python"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "ml_2",
+    "skills": [
+     "Deep Learning",
+     "Pandas",
+     "PyTorch",
+     "Statistics"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_0",
+    "skills": [
+     "FastAPI",
+     "LangChain",
+     "LLMs",
+     "Vector Databases",
+     "RAG",
+     "Python"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_1",
+    "skills": [
+     "Python",
+     "Prompt Engineering",
+     "LLMs",
+     "FastAPI",
+     "LangChain",
+     "Vector Databases"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_2",
+    "skills": [
+     "FastAPI",
+     "LangChain",
+     "LLMs",
+     "Vector Databases",
+     "Hugging Face"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_0",
+    "skills": [
+     "SQL",
+     "Tableau",
+     "Data Visualization",
+     "Power BI"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_1",
+    "skills": [
+     "Power BI",
+     "Statistics",
+     "Pandas",
+     "Tableau",
+     "Python",
+     "Excel"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_2",
+    "skills": [
+     "Tableau",
+     "Pandas",
+     "Power BI",
+     "Excel"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_0",
+    "skills": [
+     "Git",
+     "Redis",
+     "Docker",
+     "REST APIs",
+     "System Design"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_1",
+    "skills": [
+     "PostgreSQL",
+     "Python",
+     "System Design",
+     "Git"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_2",
+    "skills": [
+     "REST APIs",
+     "Python",
+     "PostgreSQL",
+     "FastAPI",
+     "Redis"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_0",
+    "skills": [
+     "Node.js",
+     "Git",
+     "HTML/CSS",
+     "Next.js"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_1",
+    "skills": [
+     "Next.js",
+     "Node.js",
+     "React",
+     "Tailwind CSS"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_2",
+    "skills": [
+     "Next.js",
+     "Node.js",
+     "TypeScript",
+     "React"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_0",
+    "skills": [
+     "Kubernetes",
+     "Git",
+     "CI/CD",
+     "AWS",
+     "Docker",
+     "Terraform"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_1",
+    "skills": [
+     "Kubernetes",
+     "Terraform",
+     "Python",
+     "Linux",
+     "CI/CD",
+     "Git"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_2",
+    "skills": [
+     "Docker",
+     "Git",
+     "Kubernetes",
+     "CI/CD",
+     "Python",
+     "AWS"
+    ],
+    "relevant": false
+   }
+  ]
+ },
+ {
+  "profile": "genai_2",
+  "profile_skills": [
+   "Vector Databases",
+   "RAG",
+   "Prompt Engineering",
+   "Hugging Face",
+   "LangChain",
+   "TypeScript",
+   "FastAPI"
+  ],
+  "jobs": [
+   {
+    "id": "ml_0",
+    "skills": [
+     "Statistics",
+     "PyTorch",
+     "Deep Learning",
+     "Python",
+     "NumPy",
+     "Machine Learning"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "ml_1",
+    "skills": [
+     "PyTorch",
+     "Pandas",
+     "Machine Learning",
+     "Statistics"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "ml_2",
+    "skills": [
+     "Python",
+     "Pandas",
+     "PyTorch",
+     "Deep Learning",
+     "Scikit-learn",
+     "NumPy"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_0",
+    "skills": [
+     "Vector Databases",
+     "RAG",
+     "Hugging Face",
+     "Prompt Engineering",
+     "LangChain"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_1",
+    "skills": [
+     "Vector Databases",
+     "Hugging Face",
+     "RAG",
+     "FastAPI",
+     "Python",
+     "LangChain"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_2",
+    "skills": [
+     "Python",
+     "FastAPI",
+     "LLMs",
+     "LangChain"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_0",
+    "skills": [
+     "Pandas",
+     "SQL",
+     "Tableau",
+     "Power BI",
+     "Data Visualization",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_1",
+    "skills": [
+     "Python",
+     "SQL",
+     "Excel",
+     "Power BI",
+     "Statistics",
+     "Data Visualization"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_2",
+    "skills": [
+     "SQL",
+     "Statistics",
+     "Data Visualization",
+     "Power BI"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_0",
+    "skills": [
+     "Docker",
+     "FastAPI",
+     "Git",
+     "Python"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_1",
+    "skills": [
+     "Redis",
+     "Docker",
+     "Python",
+     "REST APIs"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_2",
+    "skills": [
+     "Git",
+     "FastAPI",
+     "REST APIs",
+     "Python"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_0",
+    "skills": [
+     "Tailwind CSS",
+     "React",
+     "Git",
+     "TypeScript",
+     "Node.js"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_1",
+    "skills": [
+     "Node.js",
+     "Git",
+     "Tailwind CSS",
+     "TypeScript",
+     "HTML/CSS",
+     "Next.js"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_2",
+    "skills": [
+     "HTML/CSS",
+     "Tailwind CSS",
+     "Git",
+     "React",
+     "Node.js",
+     "TypeScript"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_0",
+    "skills": [
+     "AWS",
+     "Git",
+     "Python",
+     "Terraform"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_1",
+    "skills": [
+     "AWS",
+     "Linux",
+     "Python",
+     "Terraform",
+     "Kubernetes"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_2",
+    "skills": [
+     "AWS",
+     "Git",
+     "Kubernetes",
+     "Terraform",
+     "Python",
+     "Linux"
+    ],
+    "relevant": false
+   }
+  ]
+ },
+ {
+  "profile": "genai_3",
+  "profile_skills": [
+   "LangChain",
+   "FastAPI",
+   "Python",
+   "Prompt Engineering",
+   "Vector Databases",
+   "LLMs",
+   "React"
+  ],
+  "jobs": [
+   {
+    "id": "ml_0",
+    "skills": [
+     "Python",
+     "Statistics",
+     "Machine Learning",
+     "NumPy"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "ml_1",
+    "skills": [
+     "Machine Learning",
+     "PyTorch",
+     "Python",
+     "Statistics",
+     "NumPy"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "ml_2",
+    "skills": [
+     "Deep Learning",
+     "Pandas",
+     "PyTorch",
+     "Scikit-learn",
+     "Machine Learning",
+     "Statistics"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_0",
+    "skills": [
+     "Hugging Face",
+     "FastAPI",
+     "LLMs",
+     "Python",
+     "Vector Databases"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_1",
+    "skills": [
+     "LangChain",
+     "Hugging Face",
+     "Prompt Engineering",
+     "RAG",
+     "FastAPI"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_2",
+    "skills": [
+     "FastAPI",
+     "LLMs",
+     "Hugging Face",
+     "Vector Databases"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_0",
+    "skills": [
+     "Statistics",
+     "Data Visualization",
+     "Python",
+     "Excel",
+     "Power BI"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_1",
+    "skills": [
+     "Python",
+     "Statistics",
+     "SQL",
+     "Power BI",
+     "Tableau",
+     "Data Visualization"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_2",
+    "skills": [
+     "Excel",
+     "Power BI",
+     "Statistics",
+     "Python",
+     "Pandas",
+     "Tableau"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_0",
+    "skills": [
+     "FastAPI",
+     "Redis",
+     "Python",
+     "Git",
+     "PostgreSQL"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_1",
+    "skills": [
+     "REST APIs",
+     "Git",
+     "PostgreSQL",
+     "Docker"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_2",
+    "skills": [
+     "Git",
+     "PostgreSQL",
+     "REST APIs",
+     "System Design",
+     "Redis",
+     "Docker"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_0",
+    "skills": [
+     "Git",
+     "HTML/CSS",
+     "JavaScript",
+     "Next.js",
+     "TypeScript",
+     "Node.js"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_1",
+    "skills": [
+     "Node.js",
+     "TypeScript",
+     "Tailwind CSS",
+     "HTML/CSS",
+     "Next.js",
+     "React"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_2",
+    "skills": [
+     "Next.js",
+     "Git",
+     "Node.js",
+     "React"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_0",
+    "skills": [
+     "Terraform",
+     "Git",
+     "Linux",
+     "Docker"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_1",
+    "skills": [
+     "Git",
+     "AWS",
+     "CI/CD",
+     "Kubernetes",
+     "Linux"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_2",
+    "skills": [
+     "Linux",
+     "Git",
+     "AWS",
+     "Terraform",
+     "Kubernetes"
+    ],
+    "relevant": false
+   }
+  ]
+ },
+ {
+  "profile": "analyst_0",
+  "profile_skills": [
+   "Excel",
+   "Pandas",
+   "Power BI",
+   "Tableau"
+  ],
+  "jobs": [
+   {
+    "id": "ml_0",
+    "skills": [
+     "Python",
+     "NumPy",
+     "Machine Learning",
+     "PyTorch"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "ml_1",
+    "skills": [
+     "Python",
+     "Deep Learning",
+     "Pandas",
+     "Statistics",
+     "Scikit-learn"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "ml_2",
+    "skills": [
+     "Machine Learning",
+     "Scikit-learn",
+     "Python",
+     "PyTorch",
+     "Deep Learning",
+     "Statistics"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_0",
+    "skills": [
+     "Python",
+     "FastAPI",
+     "Prompt Engineering",
+     "LLMs"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_1",
+    "skills": [
+     "Prompt Engineering",
+     "LLMs",
+     "FastAPI",
+     "Hugging Face"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_2",
+    "skills": [
+     "FastAPI",
+     "Prompt Engineering",
+     "LangChain",
+     "Hugging Face",
+     "RAG"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_0",
+    "skills": [
+     "Python",
+     "Data Visualization",
+     "Excel",
+     "Power BI",
+     "Statistics"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_1",
+    "skills": [
+     "Excel",
+     "Python",
+     "Statistics",
+     "SQL",
+     "Power BI",
+     "Tableau"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_2",
+    "skills": [
+     "SQL",
+     "Pandas",
+     "Power BI",
+     "Data Visualization",
+     "Python"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_0",
+    "skills": [
+     "Python",
+     "FastAPI",
+     "PostgreSQL",
+     "System Design",
+     "Redis",
+     "REST APIs"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_1",
+    "skills": [
+     "PostgreSQL",
+     "REST APIs",
+     "Git",
+     "Redis",
+     "Docker"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_2",
+    "skills": [
+     "PostgreSQL",
+     "System Design",
+     "REST APIs",
+     "Docker",
+     "FastAPI",
+     "Redis"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_0",
+    "skills": [
+     "Node.js",
+     "JavaScript",
+     "TypeScript",
+     "HTML/CSS",
+     "Next.js"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_1",
+    "skills": [
+     "HTML/CSS",
+     "Next.js",
+     "React",
+     "JavaScript",
+     "TypeScript"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_2",
+    "skills": [
+     "Tailwind CSS",
+     "Next.js",
+     "JavaScript",
+     "HTML/CSS"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_0",
+    "skills": [
+     "CI/CD",
+     "Kubernetes",
+     "Linux",
+     "Git"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_1",
+    "skills": [
+     "CI/CD",
+     "AWS",
+     "Terraform",
+     "Python",
+     "Kubernetes",
+     "Git"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_2",
+    "skills": [
+     "AWS",
+     "CI/CD",
+     "Kubernetes",
+     "Linux"
+    ],
+    "relevant": false
+   }
+  ]
+ },
+ {
+  "profile": "analyst_1",
+  "profile_skills": [
+   "Data Visualization",
+   "Pandas",
+   "Tableau",
+   "Power BI",
+   "Statistics",
+   "Excel",
+   "Terraform"
+  ],
+  "jobs": [
+   {
+    "id": "ml_0",
+    "skills": [
+     "Pandas",
+     "Statistics",
+     "Python",
+     "Machine Learning",
+     "NumPy"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "ml_1",
+    "skills": [
+     "NumPy",
+     "PyTorch",
+     "Python",
+     "Machine Learning",
+     "Deep Learning"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "ml_2",
+    "skills": [
+     "Deep Learning",
+     "Pandas",
+     "Machine Learning",
+     "PyTorch",
+     "Statistics"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_0",
+    "skills": [
+     "RAG",
+     "Prompt Engineering",
+     "Hugging Face",
+     "LLMs",
+     "FastAPI"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_1",
+    "skills": [
+     "RAG",
+     "FastAPI",
+     "Prompt Engineering",
+     "Vector Databases",
+     "Hugging Face",
+     "LangChain"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_2",
+    "skills": [
+     "Python",
+     "LLMs",
+     "Vector Databases",
+     "Prompt Engineering",
+     "Hugging Face",
+     "LangChain"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_0",
+    "skills": [
+     "Tableau",
+     "SQL",
+     "Data Visualization",
+     "Python"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_1",
+    "skills": [
+     "Excel",
+     "Power BI",
+     "Python",
+     "Pandas",
+     "SQL",
+     "Tableau"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_2",
+    "skills": [
+     "Statistics",
+     "SQL",
+     "Excel",
+     "Power BI",
+     "Python",
+     "Tableau"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_0",
+    "skills": [
+     "System Design",
+     "REST APIs",
+     "Python",
+     "FastAPI"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_1",
+    "skills": [
+     "System Design",
+     "REST APIs",
+     "PostgreSQL",
+     "Git",
+     "FastAPI"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_2",
+    "skills": [
+     "REST APIs",
+     "FastAPI",
+     "PostgreSQL",
+     "Docker",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_0",
+    "skills": [
+     "React",
+     "Git",
+     "Tailwind CSS",
+     "JavaScript",
+     "TypeScript"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_1",
+    "skills": [
+     "Tailwind CSS",
+     "Git",
+     "JavaScript",
+     "TypeScript",
+     "Next.js",
+     "React"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_2",
+    "skills": [
+     "Tailwind CSS",
+     "React",
+     "HTML/CSS",
+     "Node.js",
+     "JavaScript",
+     "Next.js"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_0",
+    "skills": [
+     "CI/CD",
+     "AWS",
+     "Kubernetes",
+     "Linux"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_1",
+    "skills": [
+     "Git",
+     "AWS",
+     "Terraform",
+     "Linux",
+     "Python",
+     "Kubernetes"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_2",
+    "skills": [
+     "Kubernetes",
+     "Linux",
+     "Python",
+     "Terraform",
+     "CI/CD",
+     "Git"
+    ],
+    "relevant": false
+   }
+  ]
+ },
+ {
+  "profile": "analyst_2",
+  "profile_skills": [
+   "Python",
+   "Tableau",
+   "Pandas",
+   "Statistics",
+   "Power BI"
+  ],
+  "jobs": [
+   {
+    "id": "ml_0",
+    "skills": [
+     "PyTorch",
+     "Python",
+     "Statistics",
+     "Machine Learning",
+     "Deep Learning"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "ml_1",
+    "skills": [
+     "Scikit-learn",
+     "Machine Learning",
+     "PyTorch",
+     "Pandas"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "ml_2",
+    "skills": [
+     "Statistics",
+     "NumPy",
+     "Deep Learning",
+     "Python"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_0",
+    "skills": [
+     "LangChain",
+     "Python",
+     "LLMs",
+     "Prompt Engineering"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_1",
+    "skills": [
+     "Prompt Engineering",
+     "Hugging Face",
+     "Python",
+     "RAG",
+     "LangChain"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_2",
+    "skills": [
+     "RAG",
+     "FastAPI",
+     "LLMs",
+     "Prompt Engineering",
+     "LangChain",
+     "Vector Databases"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_0",
+    "skills": [
+     "Pandas",
+     "Statistics",
+     "SQL",
+     "Power BI",
+     "Tableau"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_1",
+    "skills": [
+     "SQL",
+     "Tableau",
+     "Pandas",
+     "Excel"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_2",
+    "skills": [
+     "Statistics",
+     "Python",
+     "Power BI",
+     "SQL",
+     "Pandas"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_0",
+    "skills": [
+     "Git",
+     "Redis",
+     "PostgreSQL",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_1",
+    "skills": [
+     "PostgreSQL",
+     "System Design",
+     "FastAPI",
+     "Redis",
+     "REST APIs",
+     "Docker"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_2",
+    "skills": [
+     "PostgreSQL",
+     "FastAPI",
+     "Git",
+     "REST APIs",
+     "Redis",
+     "System Design"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_0",
+    "skills": [
+     "TypeScript",
+     "Next.js",
+     "JavaScript",
+     "React"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_1",
+    "skills": [
+     "Tailwind CSS",
+     "Node.js",
+     "TypeScript",
+     "HTML/CSS"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_2",
+    "skills": [
+     "React",
+     "Next.js",
+     "HTML/CSS",
+     "Git",
+     "TypeScript"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_0",
+    "skills": [
+     "Python",
+     "Terraform",
+     "Kubernetes",
+     "Git"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_1",
+    "skills": [
+     "Kubernetes",
+     "AWS",
+     "Linux",
+     "Python",
+     "Terraform",
+     "CI/CD"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_2",
+    "skills": [
+     "Kubernetes",
+     "Git",
+     "Docker",
+     "Linux"
+    ],
+    "relevant": false
+   }
+  ]
+ },
+ {
+  "profile": "analyst_3",
+  "profile_skills": [
+   "Python",
+   "Excel",
+   "Statistics",
+   "Tableau",
+   "Pandas",
+   "SQL",
+   "Terraform",
+   "Docker"
+  ],
+  "jobs": [
+   {
+    "id": "ml_0",
+    "skills": [
+     "Python",
+     "Pandas",
+     "Machine Learning",
+     "Deep Learning",
+     "Scikit-learn"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "ml_1",
+    "skills": [
+     "PyTorch",
+     "NumPy",
+     "Statistics",
+     "Python",
+     "Machine Learning",
+     "Deep Learning"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "ml_2",
+    "skills": [
+     "Statistics",
+     "Python",
+     "Machine Learning",
+     "NumPy",
+     "Pandas"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_0",
+    "skills": [
+     "Prompt Engineering",
+     "LLMs",
+     "RAG",
+     "Vector Databases"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_1",
+    "skills": [
+     "Vector Databases",
+     "LLMs",
+     "Hugging Face",
+     "RAG"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_2",
+    "skills": [
+     "Python",
+     "FastAPI",
+     "Prompt Engineering",
+     "LLMs"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_0",
+    "skills": [
+     "Data Visualization",
+     "Statistics",
+     "SQL",
+     "Power BI",
+     "Tableau"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_1",
+    "skills": [
+     "Pandas",
+     "Data Visualization",
+     "Tableau",
+     "Power BI",
+     "Statistics"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_2",
+    "skills": [
+     "Pandas",
+     "Data Visualization",
+     "Power BI",
+     "SQL",
+     "Statistics",
+     "Tableau"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_0",
+    "skills": [
+     "Redis",
+     "Docker",
+     "Python",
+     "PostgreSQL",
+     "Git"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_1",
+    "skills": [
+     "Redis",
+     "Git",
+     "Docker",
+     "FastAPI",
+     "PostgreSQL"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_2",
+    "skills": [
+     "REST APIs",
+     "System Design",
+     "Python",
+     "Docker",
+     "Redis"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_0",
+    "skills": [
+     "Next.js",
+     "JavaScript",
+     "TypeScript",
+     "Tailwind CSS",
+     "React",
+     "HTML/CSS"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_1",
+    "skills": [
+     "Next.js",
+     "React",
+     "JavaScript",
+     "HTML/CSS",
+     "TypeScript"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_2",
+    "skills": [
+     "HTML/CSS",
+     "React",
+     "Git",
+     "TypeScript",
+     "JavaScript",
+     "Node.js"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_0",
+    "skills": [
+     "Linux",
+     "Docker",
+     "AWS",
+     "Terraform"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_1",
+    "skills": [
+     "Docker",
+     "Linux",
+     "Kubernetes",
+     "Git",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_2",
+    "skills": [
+     "Linux",
+     "Docker",
+     "CI/CD",
+     "Terraform",
+     "AWS"
+    ],
+    "relevant": false
+   }
+  ]
+ },
+ {
+  "profile": "backend_0",
+  "profile_skills": [
+   "Git",
+   "System Design",
+   "FastAPI",
+   "REST APIs"
+  ],
+  "jobs": [
+   {
+    "id": "ml_0",
+    "skills": [
+     "Python",
+     "Pandas",
+     "Scikit-learn",
+     "Deep Learning",
+     "NumPy"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "ml_1",
+    "skills": [
+     "Scikit-learn",
+     "PyTorch",
+     "Pandas",
+     "Machine Learning",
+     "NumPy"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "ml_2",
+    "skills": [
+     "Python",
+     "Machine Learning",
+     "Scikit-learn",
+     "Deep Learning",
+     "Pandas"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_0",
+    "skills": [
+     "RAG",
+     "FastAPI",
+     "Prompt Engineering",
+     "Vector Databases"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_1",
+    "skills": [
+     "LangChain",
+     "LLMs",
+     "Python",
+     "FastAPI"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_2",
+    "skills": [
+     "FastAPI",
+     "RAG",
+     "LangChain",
+     "LLMs",
+     "Prompt Engineering"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_0",
+    "skills": [
+     "Data Visualization",
+     "Power BI",
+     "SQL",
+     "Excel",
+     "Statistics",
+     "Pandas"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_1",
+    "skills": [
+     "Power BI",
+     "Tableau",
+     "Excel",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_2",
+    "skills": [
+     "Statistics",
+     "Pandas",
+     "Tableau",
+     "Python",
+     "SQL",
+     "Data Visualization"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_0",
+    "skills": [
+     "Docker",
+     "PostgreSQL",
+     "REST APIs",
+     "Git",
+     "Redis",
+     "Python"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_1",
+    "skills": [
+     "REST APIs",
+     "Docker",
+     "Python",
+     "Redis",
+     "Git",
+     "PostgreSQL"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_2",
+    "skills": [
+     "Python",
+     "FastAPI",
+     "Redis",
+     "PostgreSQL"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_0",
+    "skills": [
+     "Node.js",
+     "TypeScript",
+     "Tailwind CSS",
+     "JavaScript",
+     "React",
+     "Next.js"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_1",
+    "skills": [
+     "TypeScript",
+     "React",
+     "HTML/CSS",
+     "Node.js"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_2",
+    "skills": [
+     "HTML/CSS",
+     "Next.js",
+     "React",
+     "JavaScript"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "devops_0",
+    "skills": [
+     "Python",
+     "Git",
+     "AWS",
+     "CI/CD",
+     "Docker",
+     "Kubernetes"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "devops_1",
+    "skills": [
+     "Linux",
+     "Docker",
+     "AWS",
+     "Python"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "devops_2",
+    "skills": [
+     "Python",
+     "Git",
+     "Docker",
+     "AWS",
+     "Linux"
+    ],
+    "relevant": true
+   }
+  ]
+ },
+ {
+  "profile": "backend_1",
+  "profile_skills": [
+   "PostgreSQL",
+   "FastAPI",
+   "REST APIs",
+   "Python",
+   "Docker",
+   "Redis",
+   "Terraform"
+  ],
+  "jobs": [
+   {
+    "id": "ml_0",
+    "skills": [
+     "Pandas",
+     "Scikit-learn",
+     "Statistics",
+     "NumPy",
+     "Machine Learning"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "ml_1",
+    "skills": [
+     "Statistics",
+     "Scikit-learn",
+     "Python",
+     "Machine Learning",
+     "Deep Learning",
+     "PyTorch"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "ml_2",
+    "skills": [
+     "Scikit-learn",
+     "Statistics",
+     "Machine Learning",
+     "NumPy",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_0",
+    "skills": [
+     "Hugging Face",
+     "Prompt Engineering",
+     "LangChain",
+     "Vector Databases",
+     "FastAPI",
+     "RAG"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_1",
+    "skills": [
+     "Python",
+     "Hugging Face",
+     "Prompt Engineering",
+     "LLMs",
+     "Vector Databases"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_2",
+    "skills": [
+     "RAG",
+     "Python",
+     "Hugging Face",
+     "LangChain",
+     "Prompt Engineering",
+     "FastAPI"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_0",
+    "skills": [
+     "Statistics",
+     "Pandas",
+     "Data Visualization",
+     "Power BI",
+     "SQL"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_1",
+    "skills": [
+     "Tableau",
+     "Power BI",
+     "Data Visualization",
+     "Excel",
+     "Statistics",
+     "Pandas"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_2",
+    "skills": [
+     "Data Visualization",
+     "SQL",
+     "Tableau",
+     "Power BI",
+     "Statistics",
+     "Excel"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_0",
+    "skills": [
+     "Docker",
+     "Git",
+     "Python",
+     "REST APIs",
+     "System Design",
+     "PostgreSQL"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_1",
+    "skills": [
+     "PostgreSQL",
+     "Git",
+     "Docker",
+     "FastAPI"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_2",
+    "skills": [
+     "Python",
+     "System Design",
+     "REST APIs",
+     "Docker",
+     "Git",
+     "Redis"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_0",
+    "skills": [
+     "Node.js",
+     "TypeScript",
+     "Next.js",
+     "JavaScript",
+     "Tailwind CSS"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_1",
+    "skills": [
+     "TypeScript",
+     "HTML/CSS",
+     "Next.js",
+     "JavaScript",
+     "React",
+     "Tailwind CSS"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_2",
+    "skills": [
+     "React",
+     "Tailwind CSS",
+     "HTML/CSS",
+     "Git",
+     "Node.js"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "devops_0",
+    "skills": [
+     "CI/CD",
+     "Docker",
+     "Kubernetes",
+     "Python",
+     "Git",
+     "Linux"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "devops_1",
+    "skills": [
+     "Linux",
+     "CI/CD",
+     "Git",
+     "Kubernetes",
+     "Terraform"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "devops_2",
+    "skills": [
+     "Docker",
+     "Kubernetes",
+     "CI/CD",
+     "Linux",
+     "Git"
+    ],
+    "relevant": true
+   }
+  ]
+ },
+ {
+  "profile": "backend_2",
+  "profile_skills": [
+   "PostgreSQL",
+   "Docker",
+   "REST APIs",
+   "Redis"
+  ],
+  "jobs": [
+   {
+    "id": "ml_0",
+    "skills": [
+     "Statistics",
+     "PyTorch",
+     "Scikit-learn",
+     "Pandas",
+     "NumPy",
+     "Machine Learning"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "ml_1",
+    "skills": [
+     "Scikit-learn",
+     "PyTorch",
+     "Pandas",
+     "Machine Learning",
+     "Deep Learning",
+     "NumPy"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "ml_2",
+    "skills": [
+     "Python",
+     "Deep Learning",
+     "Scikit-learn",
+     "PyTorch"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_0",
+    "skills": [
+     "Python",
+     "Vector Databases",
+     "LLMs",
+     "RAG",
+     "LangChain"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_1",
+    "skills": [
+     "LangChain",
+     "RAG",
+     "Python",
+     "Prompt Engineering",
+     "FastAPI",
+     "Hugging Face"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_2",
+    "skills": [
+     "FastAPI",
+     "LLMs",
+     "Prompt Engineering",
+     "Python",
+     "Vector Databases",
+     "Hugging Face"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_0",
+    "skills": [
+     "Data Visualization",
+     "SQL",
+     "Power BI",
+     "Tableau",
+     "Statistics"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_1",
+    "skills": [
+     "SQL",
+     "Tableau",
+     "Power BI",
+     "Statistics",
+     "Excel",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_2",
+    "skills": [
+     "Power BI",
+     "Excel",
+     "Statistics",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_0",
+    "skills": [
+     "Python",
+     "REST APIs",
+     "PostgreSQL",
+     "Docker"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_1",
+    "skills": [
+     "System Design",
+     "FastAPI",
+     "Git",
+     "REST APIs",
+     "PostgreSQL"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_2",
+    "skills": [
+     "System Design",
+     "Git",
+     "Docker",
+     "REST APIs",
+     "FastAPI"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_0",
+    "skills": [
+     "Tailwind CSS",
+     "TypeScript",
+     "React",
+     "Next.js",
+     "HTML/CSS"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_1",
+    "skills": [
+     "React",
+     "HTML/CSS",
+     "Next.js",
+     "Git"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_2",
+    "skills": [
+     "TypeScript",
+     "React",
+     "JavaScript",
+     "Git",
+     "Tailwind CSS",
+     "HTML/CSS"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "devops_0",
+    "skills": [
+     "AWS",
+     "Terraform",
+     "Git",
+     "Docker"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "devops_1",
+    "skills": [
+     "Terraform",
+     "Python",
+     "Docker",
+     "Linux"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "devops_2",
+    "skills": [
+     "AWS",
+     "Docker",
+     "CI/CD",
+     "Git"
+    ],
+    "relevant": true
+   }
+  ]
+ },
+ {
+  "profile": "backend_3",
+  "profile_skills": [
+   "System Design",
+   "Python",
+   "Docker",
+   "Git",
+   "PostgreSQL",
+   "Statistics"
+  ],
+  "jobs": [
+   {
+    "id": "ml_0",
+    "skills": [
+     "NumPy",
+     "Machine Learning",
+     "PyTorch",
+     "Pandas",
+     "Deep Learning",
+     "Statistics"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "ml_1",
+    "skills": [
+     "Deep Learning",
+     "Statistics",
+     "PyTorch",
+     "Machine Learning"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "ml_2",
+    "skills": [
+     "Machine Learning",
+     "Deep Learning",
+     "Scikit-learn",
+     "Pandas",
+     "Statistics",
+     "NumPy"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_0",
+    "skills": [
+     "Vector Databases",
+     "FastAPI",
+     "Hugging Face",
+     "RAG",
+     "Python",
+     "LLMs"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_1",
+    "skills": [
+     "FastAPI",
+     "Python",
+     "LangChain",
+     "RAG"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "genai_2",
+    "skills": [
+     "Prompt Engineering",
+     "LangChain",
+     "Vector Databases",
+     "RAG"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "analyst_0",
+    "skills": [
+     "Python",
+     "Tableau",
+     "SQL",
+     "Data Visualization",
+     "Statistics"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_1",
+    "skills": [
+     "Python",
+     "Tableau",
+     "Statistics",
+     "Pandas",
+     "Data Visualization"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_2",
+    "skills": [
+     "Tableau",
+     "Python",
+     "Power BI",
+     "Pandas",
+     "Data Visualization",
+     "Excel"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_0",
+    "skills": [
+     "Docker",
+     "Redis",
+     "Python",
+     "Git"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_1",
+    "skills": [
+     "Redis",
+     "FastAPI",
+     "Docker",
+     "Python",
+     "PostgreSQL",
+     "System Design"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_2",
+    "skills": [
+     "System Design",
+     "Docker",
+     "Redis",
+     "Python",
+     "REST APIs"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_0",
+    "skills": [
+     "Node.js",
+     "HTML/CSS",
+     "TypeScript",
+     "Next.js",
+     "Git",
+     "JavaScript"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_1",
+    "skills": [
+     "TypeScript",
+     "HTML/CSS",
+     "React",
+     "Next.js"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_2",
+    "skills": [
+     "TypeScript",
+     "React",
+     "Node.js",
+     "JavaScript",
+     "Tailwind CSS",
+     "Git"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "devops_0",
+    "skills": [
+     "Python",
+     "Git",
+     "Terraform",
+     "AWS"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "devops_1",
+    "skills": [
+     "Terraform",
+     "Linux",
+     "Git",
+     "Docker"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "devops_2",
+    "skills": [
+     "Terraform",
+     "Git",
+     "Python",
+     "Kubernetes"
+    ],
+    "relevant": true
+   }
+  ]
+ },
+ {
+  "profile": "web_0",
+  "profile_skills": [
+   "Next.js",
+   "Git",
+   "React",
+   "Tailwind CSS",
+   "Node.js",
+   "JavaScript",
+   "Statistics"
+  ],
+  "jobs": [
+   {
+    "id": "ml_0",
+    "skills": [
+     "NumPy",
+     "Scikit-learn",
+     "Pandas",
+     "PyTorch",
+     "Statistics",
+     "Deep Learning"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "ml_1",
+    "skills": [
+     "Statistics",
+     "Machine Learning",
+     "Deep Learning",
+     "PyTorch",
+     "Scikit-learn",
+     "NumPy"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "ml_2",
+    "skills": [
+     "Scikit-learn",
+     "NumPy",
+     "Deep Learning",
+     "Machine Learning",
+     "Python",
+     "Pandas"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_0",
+    "skills": [
+     "Vector Databases",
+     "Python",
+     "LangChain",
+     "Hugging Face"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_1",
+    "skills": [
+     "Hugging Face",
+     "Python",
+     "LLMs",
+     "Vector Databases",
+     "LangChain",
+     "FastAPI"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_2",
+    "skills": [
+     "FastAPI",
+     "RAG",
+     "LangChain",
+     "Vector Databases"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_0",
+    "skills": [
+     "Pandas",
+     "Tableau",
+     "Python",
+     "Data Visualization",
+     "Statistics",
+     "Power BI"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_1",
+    "skills": [
+     "Python",
+     "Excel",
+     "Tableau",
+     "Pandas",
+     "Statistics",
+     "Data Visualization"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_2",
+    "skills": [
+     "Tableau",
+     "Statistics",
+     "Python",
+     "Data Visualization",
+     "Excel"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_0",
+    "skills": [
+     "Docker",
+     "System Design",
+     "FastAPI",
+     "PostgreSQL"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_1",
+    "skills": [
+     "PostgreSQL",
+     "Python",
+     "Docker",
+     "FastAPI"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_2",
+    "skills": [
+     "PostgreSQL",
+     "System Design",
+     "Git",
+     "Redis",
+     "Docker",
+     "REST APIs"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_0",
+    "skills": [
+     "Next.js",
+     "TypeScript",
+     "Git",
+     "React",
+     "JavaScript",
+     "Tailwind CSS"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_1",
+    "skills": [
+     "React",
+     "Next.js",
+     "JavaScript",
+     "Tailwind CSS",
+     "HTML/CSS",
+     "Node.js"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_2",
+    "skills": [
+     "React",
+     "TypeScript",
+     "HTML/CSS",
+     "JavaScript",
+     "Next.js",
+     "Node.js"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "devops_0",
+    "skills": [
+     "Kubernetes",
+     "Linux",
+     "CI/CD",
+     "Git",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_1",
+    "skills": [
+     "Git",
+     "Python",
+     "Kubernetes",
+     "AWS",
+     "CI/CD"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_2",
+    "skills": [
+     "CI/CD",
+     "AWS",
+     "Linux",
+     "Kubernetes",
+     "Python",
+     "Docker"
+    ],
+    "relevant": false
+   }
+  ]
+ },
+ {
+  "profile": "web_1",
+  "profile_skills": [
+   "Node.js",
+   "TypeScript",
+   "Next.js",
+   "JavaScript"
+  ],
+  "jobs": [
+   {
+    "id": "ml_0",
+    "skills": [
+     "Python",
+     "Scikit-learn",
+     "NumPy",
+     "Deep Learning",
+     "Machine Learning"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "ml_1",
+    "skills": [
+     "PyTorch",
+     "Scikit-learn",
+     "Statistics",
+     "Machine Learning",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "ml_2",
+    "skills": [
+     "Pandas",
+     "Scikit-learn",
+     "NumPy",
+     "PyTorch",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_0",
+    "skills": [
+     "LLMs",
+     "Python",
+     "RAG",
+     "Prompt Engineering"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_1",
+    "skills": [
+     "RAG",
+     "Hugging Face",
+     "LangChain",
+     "LLMs"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_2",
+    "skills": [
+     "Prompt Engineering",
+     "LangChain",
+     "Python",
+     "Hugging Face"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_0",
+    "skills": [
+     "Pandas",
+     "Statistics",
+     "SQL",
+     "Excel",
+     "Tableau"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_1",
+    "skills": [
+     "Power BI",
+     "Tableau",
+     "Excel",
+     "Data Visualization",
+     "SQL"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_2",
+    "skills": [
+     "SQL",
+     "Excel",
+     "Statistics",
+     "Data Visualization"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_0",
+    "skills": [
+     "REST APIs",
+     "PostgreSQL",
+     "Redis",
+     "Python",
+     "Git",
+     "FastAPI"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_1",
+    "skills": [
+     "System Design",
+     "Python",
+     "REST APIs",
+     "Redis",
+     "PostgreSQL",
+     "FastAPI"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_2",
+    "skills": [
+     "FastAPI",
+     "Redis",
+     "REST APIs",
+     "Docker",
+     "System Design",
+     "Git"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_0",
+    "skills": [
+     "React",
+     "TypeScript",
+     "Next.js",
+     "Git",
+     "HTML/CSS",
+     "Node.js"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_1",
+    "skills": [
+     "JavaScript",
+     "Node.js",
+     "React",
+     "Git"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_2",
+    "skills": [
+     "Next.js",
+     "Git",
+     "HTML/CSS",
+     "Node.js",
+     "Tailwind CSS"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "devops_0",
+    "skills": [
+     "Python",
+     "Linux",
+     "Git",
+     "Terraform",
+     "Docker"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_1",
+    "skills": [
+     "Terraform",
+     "AWS",
+     "Docker",
+     "Linux",
+     "Git",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_2",
+    "skills": [
+     "Linux",
+     "Kubernetes",
+     "Docker",
+     "Git",
+     "Python",
+     "CI/CD"
+    ],
+    "relevant": false
+   }
+  ]
+ },
+ {
+  "profile": "web_2",
+  "profile_skills": [
+   "HTML/CSS",
+   "Tailwind CSS",
+   "JavaScript",
+   "React"
+  ],
+  "jobs": [
+   {
+    "id": "ml_0",
+    "skills": [
+     "Deep Learning",
+     "Machine Learning",
+     "Pandas",
+     "Python",
+     "NumPy"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "ml_1",
+    "skills": [
+     "Python",
+     "Pandas",
+     "Statistics",
+     "Scikit-learn",
+     "Machine Learning"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "ml_2",
+    "skills": [
+     "Scikit-learn",
+     "Statistics",
+     "Python",
+     "NumPy"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_0",
+    "skills": [
+     "FastAPI",
+     "LangChain",
+     "Prompt Engineering",
+     "LLMs"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_1",
+    "skills": [
+     "Prompt Engineering",
+     "Hugging Face",
+     "FastAPI",
+     "LLMs",
+     "RAG"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_2",
+    "skills": [
+     "Prompt Engineering",
+     "RAG",
+     "LLMs",
+     "Hugging Face"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_0",
+    "skills": [
+     "SQL",
+     "Excel",
+     "Python",
+     "Power BI",
+     "Data Visualization",
+     "Statistics"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_1",
+    "skills": [
+     "Python",
+     "Power BI",
+     "Data Visualization",
+     "Pandas",
+     "SQL",
+     "Statistics"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_2",
+    "skills": [
+     "Data Visualization",
+     "Power BI",
+     "Python",
+     "Pandas",
+     "Statistics",
+     "Excel"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_0",
+    "skills": [
+     "Docker",
+     "System Design",
+     "FastAPI",
+     "Git",
+     "Python",
+     "PostgreSQL"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_1",
+    "skills": [
+     "System Design",
+     "Docker",
+     "PostgreSQL",
+     "FastAPI"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_2",
+    "skills": [
+     "Python",
+     "PostgreSQL",
+     "REST APIs",
+     "FastAPI"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_0",
+    "skills": [
+     "Git",
+     "HTML/CSS",
+     "Tailwind CSS",
+     "Node.js",
+     "Next.js"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_1",
+    "skills": [
+     "Tailwind CSS",
+     "Node.js",
+     "TypeScript",
+     "JavaScript"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_2",
+    "skills": [
+     "Tailwind CSS",
+     "JavaScript",
+     "React",
+     "Git"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "devops_0",
+    "skills": [
+     "Linux",
+     "Git",
+     "Docker",
+     "Terraform",
+     "Python",
+     "Kubernetes"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_1",
+    "skills": [
+     "Linux",
+     "Git",
+     "Docker",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_2",
+    "skills": [
+     "Terraform",
+     "CI/CD",
+     "Kubernetes",
+     "AWS",
+     "Docker"
+    ],
+    "relevant": false
+   }
+  ]
+ },
+ {
+  "profile": "web_3",
+  "profile_skills": [
+   "TypeScript",
+   "Tailwind CSS",
+   "HTML/CSS",
+   "React",
+   "JavaScript"
+  ],
+  "jobs": [
+   {
+    "id": "ml_0",
+    "skills": [
+     "Statistics",
+     "PyTorch",
+     "Pandas",
+     "Machine Learning",
+     "Python",
+     "NumPy"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "ml_1",
+    "skills": [
+     "Machine Learning",
+     "PyTorch",
+     "Statistics",
+     "Scikit-learn"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "ml_2",
+    "skills": [
+     "Machine Learning",
+     "Scikit-learn",
+     "Python",
+     "PyTorch"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_0",
+    "skills": [
+     "Vector Databases",
+     "Python",
+     "LangChain",
+     "LLMs"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_1",
+    "skills": [
+     "Prompt Engineering",
+     "Python",
+     "FastAPI",
+     "Vector Databases",
+     "LangChain",
+     "LLMs"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_2",
+    "skills": [
+     "LLMs",
+     "FastAPI",
+     "Hugging Face",
+     "Vector Databases"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_0",
+    "skills": [
+     "Python",
+     "Data Visualization",
+     "Excel",
+     "Statistics",
+     "Power BI",
+     "Pandas"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_1",
+    "skills": [
+     "Python",
+     "Data Visualization",
+     "Tableau",
+     "Pandas"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_2",
+    "skills": [
+     "Power BI",
+     "Python",
+     "Excel",
+     "Pandas",
+     "Statistics",
+     "SQL"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_0",
+    "skills": [
+     "System Design",
+     "Python",
+     "REST APIs",
+     "PostgreSQL",
+     "Redis",
+     "Git"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_1",
+    "skills": [
+     "Git",
+     "PostgreSQL",
+     "REST APIs",
+     "Python",
+     "FastAPI"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_2",
+    "skills": [
+     "Docker",
+     "Git",
+     "Redis",
+     "PostgreSQL",
+     "FastAPI",
+     "REST APIs"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_0",
+    "skills": [
+     "HTML/CSS",
+     "JavaScript",
+     "Git",
+     "Tailwind CSS"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_1",
+    "skills": [
+     "Git",
+     "Next.js",
+     "Node.js",
+     "TypeScript",
+     "HTML/CSS"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_2",
+    "skills": [
+     "HTML/CSS",
+     "Node.js",
+     "JavaScript",
+     "Git",
+     "Tailwind CSS"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "devops_0",
+    "skills": [
+     "Git",
+     "Kubernetes",
+     "CI/CD",
+     "AWS",
+     "Docker",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_1",
+    "skills": [
+     "AWS",
+     "Git",
+     "Docker",
+     "CI/CD"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_2",
+    "skills": [
+     "Python",
+     "CI/CD",
+     "Kubernetes",
+     "Git"
+    ],
+    "relevant": false
+   }
+  ]
+ },
+ {
+  "profile": "devops_0",
+  "profile_skills": [
+   "CI/CD",
+   "Python",
+   "Terraform",
+   "Docker",
+   "Linux",
+   "Kubernetes",
+   "NumPy"
+  ],
+  "jobs": [
+   {
+    "id": "ml_0",
+    "skills": [
+     "Statistics",
+     "Deep Learning",
+     "Scikit-learn",
+     "PyTorch",
+     "Python",
+     "NumPy"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "ml_1",
+    "skills": [
+     "Pandas",
+     "Python",
+     "Statistics",
+     "Scikit-learn",
+     "Machine Learning",
+     "NumPy"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "ml_2",
+    "skills": [
+     "PyTorch",
+     "Pandas",
+     "Scikit-learn",
+     "Deep Learning",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_0",
+    "skills": [
+     "LLMs",
+     "Vector Databases",
+     "FastAPI",
+     "Python",
+     "LangChain",
+     "Prompt Engineering"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_1",
+    "skills": [
+     "FastAPI",
+     "Python",
+     "RAG",
+     "Prompt Engineering"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_2",
+    "skills": [
+     "FastAPI",
+     "Prompt Engineering",
+     "Python",
+     "LLMs",
+     "LangChain",
+     "Hugging Face"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_0",
+    "skills": [
+     "Tableau",
+     "Power BI",
+     "Statistics",
+     "Data Visualization",
+     "Pandas"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_1",
+    "skills": [
+     "SQL",
+     "Excel",
+     "Data Visualization",
+     "Power BI",
+     "Statistics",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_2",
+    "skills": [
+     "Excel",
+     "SQL",
+     "Pandas",
+     "Power BI",
+     "Statistics",
+     "Tableau"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_0",
+    "skills": [
+     "Docker",
+     "System Design",
+     "PostgreSQL",
+     "REST APIs"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_1",
+    "skills": [
+     "Redis",
+     "Python",
+     "Git",
+     "System Design",
+     "FastAPI",
+     "Docker"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_2",
+    "skills": [
+     "FastAPI",
+     "Git",
+     "Redis",
+     "Docker",
+     "Python",
+     "REST APIs"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_0",
+    "skills": [
+     "HTML/CSS",
+     "JavaScript",
+     "Tailwind CSS",
+     "Git",
+     "Next.js"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_1",
+    "skills": [
+     "Git",
+     "TypeScript",
+     "Node.js",
+     "Tailwind CSS"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_2",
+    "skills": [
+     "React",
+     "Next.js",
+     "JavaScript",
+     "HTML/CSS",
+     "Git",
+     "TypeScript"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_0",
+    "skills": [
+     "CI/CD",
+     "Kubernetes",
+     "Terraform",
+     "Docker",
+     "Linux",
+     "Git"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "devops_1",
+    "skills": [
+     "CI/CD",
+     "Kubernetes",
+     "AWS",
+     "Python",
+     "Terraform"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "devops_2",
+    "skills": [
+     "CI/CD",
+     "AWS",
+     "Python",
+     "Kubernetes"
+    ],
+    "relevant": true
+   }
+  ]
+ },
+ {
+  "profile": "devops_1",
+  "profile_skills": [
+   "Kubernetes",
+   "CI/CD",
+   "Python",
+   "Docker",
+   "Terraform",
+   "AWS",
+   "Tableau"
+  ],
+  "jobs": [
+   {
+    "id": "ml_0",
+    "skills": [
+     "Machine Learning",
+     "Pandas",
+     "Python",
+     "Statistics",
+     "NumPy"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "ml_1",
+    "skills": [
+     "PyTorch",
+     "Machine Learning",
+     "Scikit-learn",
+     "NumPy"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "ml_2",
+    "skills": [
+     "Python",
+     "Pandas",
+     "Statistics",
+     "PyTorch",
+     "Scikit-learn",
+     "NumPy"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_0",
+    "skills": [
+     "Python",
+     "LangChain",
+     "Prompt Engineering",
+     "RAG",
+     "Hugging Face",
+     "FastAPI"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_1",
+    "skills": [
+     "LLMs",
+     "FastAPI",
+     "LangChain",
+     "RAG",
+     "Prompt Engineering"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_2",
+    "skills": [
+     "RAG",
+     "Vector Databases",
+     "Prompt Engineering",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_0",
+    "skills": [
+     "Statistics",
+     "Tableau",
+     "Python",
+     "Data Visualization",
+     "Pandas"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_1",
+    "skills": [
+     "Python",
+     "SQL",
+     "Power BI",
+     "Data Visualization"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_2",
+    "skills": [
+     "Python",
+     "Data Visualization",
+     "Power BI",
+     "Tableau",
+     "Pandas"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_0",
+    "skills": [
+     "Python",
+     "PostgreSQL",
+     "FastAPI",
+     "System Design"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_1",
+    "skills": [
+     "Redis",
+     "FastAPI",
+     "PostgreSQL",
+     "Docker"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_2",
+    "skills": [
+     "REST APIs",
+     "Git",
+     "PostgreSQL",
+     "Python"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_0",
+    "skills": [
+     "Git",
+     "TypeScript",
+     "React",
+     "Node.js",
+     "Next.js"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_1",
+    "skills": [
+     "JavaScript",
+     "HTML/CSS",
+     "TypeScript",
+     "Node.js",
+     "Tailwind CSS",
+     "Git"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_2",
+    "skills": [
+     "Git",
+     "React",
+     "HTML/CSS",
+     "Node.js",
+     "Tailwind CSS",
+     "Next.js"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_0",
+    "skills": [
+     "Docker",
+     "Linux",
+     "Kubernetes",
+     "CI/CD"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "devops_1",
+    "skills": [
+     "Terraform",
+     "Docker",
+     "Git",
+     "Kubernetes"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "devops_2",
+    "skills": [
+     "AWS",
+     "Git",
+     "CI/CD",
+     "Linux",
+     "Terraform"
+    ],
+    "relevant": true
+   }
+  ]
+ },
+ {
+  "profile": "devops_2",
+  "profile_skills": [
+   "AWS",
+   "Python",
+   "Terraform",
+   "Docker"
+  ],
+  "jobs": [
+   {
+    "id": "ml_0",
+    "skills": [
+     "Pandas",
+     "PyTorch",
+     "Scikit-learn",
+     "Deep Learning",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "ml_1",
+    "skills": [
+     "Scikit-learn",
+     "PyTorch",
+     "Machine Learning",
+     "Statistics",
+     "NumPy"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "ml_2",
+    "skills": [
+     "Statistics",
+     "Python",
+     "Pandas",
+     "NumPy"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_0",
+    "skills": [
+     "RAG",
+     "Hugging Face",
+     "FastAPI",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_1",
+    "skills": [
+     "LangChain",
+     "Vector Databases",
+     "Prompt Engineering",
+     "Python",
+     "Hugging Face",
+     "LLMs"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_2",
+    "skills": [
+     "LLMs",
+     "Hugging Face",
+     "Python",
+     "LangChain",
+     "Prompt Engineering"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_0",
+    "skills": [
+     "Data Visualization",
+     "Python",
+     "Power BI",
+     "SQL",
+     "Pandas"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_1",
+    "skills": [
+     "Excel",
+     "Pandas",
+     "SQL",
+     "Tableau",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_2",
+    "skills": [
+     "Excel",
+     "Power BI",
+     "Tableau",
+     "Statistics",
+     "SQL",
+     "Pandas"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_0",
+    "skills": [
+     "Redis",
+     "PostgreSQL",
+     "FastAPI",
+     "REST APIs"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_1",
+    "skills": [
+     "PostgreSQL",
+     "Redis",
+     "System Design",
+     "Docker"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_2",
+    "skills": [
+     "Python",
+     "Docker",
+     "Redis",
+     "REST APIs",
+     "Git"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_0",
+    "skills": [
+     "Next.js",
+     "Git",
+     "TypeScript",
+     "Node.js",
+     "Tailwind CSS"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_1",
+    "skills": [
+     "HTML/CSS",
+     "Next.js",
+     "Node.js",
+     "Tailwind CSS"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_2",
+    "skills": [
+     "JavaScript",
+     "HTML/CSS",
+     "React",
+     "Next.js"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_0",
+    "skills": [
+     "Git",
+     "CI/CD",
+     "AWS",
+     "Terraform",
+     "Python"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "devops_1",
+    "skills": [
+     "Linux",
+     "CI/CD",
+     "Terraform",
+     "Git",
+     "Python"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "devops_2",
+    "skills": [
+     "Python",
+     "Kubernetes",
+     "Terraform",
+     "Linux"
+    ],
+    "relevant": true
+   }
+  ]
+ },
+ {
+  "profile": "devops_3",
+  "profile_skills": [
+   "Git",
+   "AWS",
+   "Docker",
+   "Linux",
+   "Terraform",
+   "Python"
+  ],
+  "jobs": [
+   {
+    "id": "ml_0",
+    "skills": [
+     "Pandas",
+     "Statistics",
+     "NumPy",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "ml_1",
+    "skills": [
+     "Scikit-learn",
+     "Pandas",
+     "NumPy",
+     "PyTorch",
+     "Deep Learning",
+     "Machine Learning"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "ml_2",
+    "skills": [
+     "Pandas",
+     "Machine Learning",
+     "NumPy",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_0",
+    "skills": [
+     "Vector Databases",
+     "Hugging Face",
+     "LLMs",
+     "Python",
+     "RAG",
+     "LangChain"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_1",
+    "skills": [
+     "Hugging Face",
+     "RAG",
+     "LangChain",
+     "LLMs"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "genai_2",
+    "skills": [
+     "FastAPI",
+     "Prompt Engineering",
+     "RAG",
+     "Python",
+     "LLMs"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_0",
+    "skills": [
+     "Power BI",
+     "Excel",
+     "Statistics",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_1",
+    "skills": [
+     "Excel",
+     "Data Visualization",
+     "Pandas",
+     "Statistics",
+     "Python"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "analyst_2",
+    "skills": [
+     "Python",
+     "Tableau",
+     "SQL",
+     "Pandas",
+     "Statistics"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "backend_0",
+    "skills": [
+     "Docker",
+     "PostgreSQL",
+     "Python",
+     "REST APIs"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_1",
+    "skills": [
+     "FastAPI",
+     "Git",
+     "PostgreSQL",
+     "Redis",
+     "System Design",
+     "Docker"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "backend_2",
+    "skills": [
+     "FastAPI",
+     "Docker",
+     "Python",
+     "PostgreSQL"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "web_0",
+    "skills": [
+     "Node.js",
+     "Next.js",
+     "HTML/CSS",
+     "Tailwind CSS"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_1",
+    "skills": [
+     "Next.js",
+     "React",
+     "Node.js",
+     "Tailwind CSS"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "web_2",
+    "skills": [
+     "React",
+     "Node.js",
+     "Git",
+     "Tailwind CSS",
+     "HTML/CSS",
+     "Next.js"
+    ],
+    "relevant": false
+   },
+   {
+    "id": "devops_0",
+    "skills": [
+     "Git",
+     "Python",
+     "Linux",
+     "AWS"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "devops_1",
+    "skills": [
+     "Python",
+     "CI/CD",
+     "Terraform",
+     "Linux"
+    ],
+    "relevant": true
+   },
+   {
+    "id": "devops_2",
+    "skills": [
+     "CI/CD",
+     "Terraform",
+     "AWS",
+     "Linux",
+     "Git"
+    ],
+    "relevant": true
+   }
+  ]
+ }
+]

@@ -1,0 +1,8 @@
+{
+  "task": "multi_label_skill_extraction",
+  "dataset": "skill_extraction.json",
+  "n_examples": 6,
+  "n_labels": 24,
+  "evaluation": "not_performed",
+  "note": "Six labeled snippets are insufficient for a reliable holdout evaluation."
+}

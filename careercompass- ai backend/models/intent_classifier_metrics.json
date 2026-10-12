@@ -1,0 +1,85 @@
+{
+  "task": "intent_classification",
+  "dataset": "intent_tests.json",
+  "n_examples": 58,
+  "n_train": 43,
+  "n_test": 15,
+  "evaluation": "stratified_holdout",
+  "accuracy": 0.6,
+  "macro_f1": 0.5433,
+  "report": {
+    "analyze_resume": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 1.0
+    },
+    "find_jobs": {
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1-score": 0.6666666666666666,
+      "support": 2.0
+    },
+    "general": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 3.0
+    },
+    "improve_resume_for_job": {
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1-score": 0.6666666666666666,
+      "support": 1.0
+    },
+    "interview": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "roadmap": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "set_goal": {
+      "precision": 0.6666666666666666,
+      "recall": 1.0,
+      "f1-score": 0.8,
+      "support": 2.0
+    },
+    "skill_gap": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 1.0
+    },
+    "skill_update": {
+      "precision": 0.6666666666666666,
+      "recall": 1.0,
+      "f1-score": 0.8,
+      "support": 2.0
+    },
+    "tracker_summary": {
+      "precision": 0.3333333333333333,
+      "recall": 1.0,
+      "f1-score": 0.5,
+      "support": 1.0
+    },
+    "accuracy": 0.6,
+    "macro avg": {
+      "precision": 0.5166666666666666,
+      "recall": 0.65,
+      "f1-score": 0.5433333333333332,
+      "support": 15.0
+    },
+    "weighted avg": {
+      "precision": 0.49999999999999994,
+      "recall": 0.6,
+      "f1-score": 0.5133333333333333,
+      "support": 15.0
+    }
+  }
+}

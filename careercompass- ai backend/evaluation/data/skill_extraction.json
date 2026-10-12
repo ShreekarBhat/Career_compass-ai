@@ -1,0 +1,14 @@
+[
+ {"text": "Built a REST API with Flask and PostgreSQL, containerised with Docker and deployed on AWS.",
+  "skills": ["REST APIs", "Flask", "PostgreSQL", "Docker", "AWS"]},
+ {"text": "Trained a CNN in PyTorch for image classification; used Pandas and NumPy for preprocessing and Git for version control.",
+  "skills": ["PyTorch", "Pandas", "NumPy", "Git", "Deep Learning"]},
+ {"text": "Developed a React and TypeScript dashboard backed by a Node.js service and MongoDB.",
+  "skills": ["React", "TypeScript", "Node.js", "MongoDB"]},
+ {"text": "Implemented a RAG chatbot using LangChain, FAISS and a Hugging Face embedding model.",
+  "skills": ["RAG", "LangChain", "Hugging Face"]},
+ {"text": "Analysed sales data with SQL and Python, visualised insights in Power BI and Tableau.",
+  "skills": ["SQL", "Python", "Power BI", "Tableau"]},
+ {"text": "Set up CI/CD pipelines using GitHub Actions and managed Kubernetes deployments on Linux servers.",
+  "skills": ["CI/CD", "Kubernetes", "Linux"]}
+]

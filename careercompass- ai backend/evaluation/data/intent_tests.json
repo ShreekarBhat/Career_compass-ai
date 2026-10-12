@@ -1,0 +1,234 @@
+[
+ {
+  "message": "I want to become a Machine Learning Engineer",
+  "intent": "set_goal"
+ },
+ {
+  "message": "My goal is to work as a data scientist",
+  "intent": "set_goal"
+ },
+ {
+  "message": "I'd like to switch to backend development",
+  "intent": "set_goal"
+ },
+ {
+  "message": "I already know PyTorch",
+  "intent": "skill_update"
+ },
+ {
+  "message": "I have learnt Docker and Git",
+  "intent": "skill_update"
+ },
+ {
+  "message": "I'm comfortable with SQL now",
+  "intent": "skill_update"
+ },
+ {
+  "message": "Analyze my resume",
+  "intent": "analyze_resume"
+ },
+ {
+  "message": "What is my ATS score?",
+  "intent": "analyze_resume"
+ },
+ {
+  "message": "Improve my resume for this job",
+  "intent": "improve_resume_for_job"
+ },
+ {
+  "message": "Tailor my CV for the target role",
+  "intent": "improve_resume_for_job"
+ },
+ {
+  "message": "Find me ML internships",
+  "intent": "find_jobs"
+ },
+ {
+  "message": "Show me openings that match my profile",
+  "intent": "find_jobs"
+ },
+ {
+  "message": "Any new job opportunities for me?",
+  "intent": "find_jobs"
+ },
+ {
+  "message": "What skills am I missing?",
+  "intent": "skill_gap"
+ },
+ {
+  "message": "Run a skill gap analysis",
+  "intent": "skill_gap"
+ },
+ {
+  "message": "Create a 12 week roadmap for me",
+  "intent": "roadmap"
+ },
+ {
+  "message": "I need a learning path to get job-ready",
+  "intent": "roadmap"
+ },
+ {
+  "message": "Start a mock interview",
+  "intent": "interview"
+ },
+ {
+  "message": "Help me prepare for my interview",
+  "intent": "interview"
+ },
+ {
+  "message": "How many applications have I sent?",
+  "intent": "tracker_summary"
+ },
+ {
+  "message": "What is my interview conversion rate?",
+  "intent": "tracker_summary"
+ },
+ {
+  "message": "Explain what MLOps is",
+  "intent": "general"
+ },
+ {
+  "message": "How does retrieval augmented generation work?",
+  "intent": "general"
+ },
+ {
+  "message": "Hello, what can you do?",
+  "intent": "general"
+ },
+ {
+  "message": "I want to be an AI Engineer",
+  "intent": "set_goal"
+ },
+ {
+  "message": "I aim to become a data analyst",
+  "intent": "set_goal"
+ },
+ {
+  "message": "Looking to become a full stack developer",
+  "intent": "set_goal"
+ },
+ {
+  "message": "My target role is DevOps Engineer",
+  "intent": "set_goal"
+ },
+ {
+  "message": "I want to switch to NLP engineering",
+  "intent": "set_goal"
+ },
+ {
+  "message": "I already know FastAPI and Docker",
+  "intent": "skill_update"
+ },
+ {
+  "message": "I've completed a course on Kubernetes",
+  "intent": "skill_update"
+ },
+ {
+  "message": "I'm familiar with PyTorch and TensorFlow",
+  "intent": "skill_update"
+ },
+ {
+  "message": "I have learnt React",
+  "intent": "skill_update"
+ },
+ {
+  "message": "Check my resume for problems",
+  "intent": "analyze_resume"
+ },
+ {
+  "message": "How good is my CV?",
+  "intent": "analyze_resume"
+ },
+ {
+  "message": "Give me my ATS score",
+  "intent": "analyze_resume"
+ },
+ {
+  "message": "Rewrite my resume for this job",
+  "intent": "improve_resume_for_job"
+ },
+ {
+  "message": "Tailor my resume for the job I pasted",
+  "intent": "improve_resume_for_job"
+ },
+ {
+  "message": "Find data science jobs in Bengaluru",
+  "intent": "find_jobs"
+ },
+ {
+  "message": "Any openings for backend interns?",
+  "intent": "find_jobs"
+ },
+ {
+  "message": "Recommend positions that fit me",
+  "intent": "find_jobs"
+ },
+ {
+  "message": "Are there remote vacancies?",
+  "intent": "find_jobs"
+ },
+ {
+  "message": "Which skills do I lack for my target role?",
+  "intent": "skill_gap"
+ },
+ {
+  "message": "What am I missing for ML roles?",
+  "intent": "skill_gap"
+ },
+ {
+  "message": "Show my missing skills",
+  "intent": "skill_gap"
+ },
+ {
+  "message": "Build me a study plan",
+  "intent": "roadmap"
+ },
+ {
+  "message": "Give me a learning roadmap",
+  "intent": "roadmap"
+ },
+ {
+  "message": "I need a road map for the next 12 weeks",
+  "intent": "roadmap"
+ },
+ {
+  "message": "Ask me interview questions",
+  "intent": "interview"
+ },
+ {
+  "message": "Let's do a mock interview for ML Engineer",
+  "intent": "interview"
+ },
+ {
+  "message": "Show my application statistics",
+  "intent": "tracker_summary"
+ },
+ {
+  "message": "How many applications did I send?",
+  "intent": "tracker_summary"
+ },
+ {
+  "message": "What is Docker used for?",
+  "intent": "general"
+ },
+ {
+  "message": "Explain the difference between precision and recall",
+  "intent": "general"
+ },
+ {
+  "message": "Tell me about transformers",
+  "intent": "general"
+ },
+ {
+  "message": "Thanks!",
+  "intent": "general"
+ },
+ {
+  "message": "What is a vector database?",
+  "intent": "general"
+ },
+ {
+  "message": "How do I write a good cover letter?",
+  "intent": "general"
+ }
+]

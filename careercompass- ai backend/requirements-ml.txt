@@ -1,0 +1,2 @@
+# Optional: real semantic embeddings (pulls in PyTorch). Without it the app uses its built-in fallback embedder.
+sentence-transformers>=3.0
