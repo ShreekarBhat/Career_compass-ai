@@ -1,0 +1,55 @@
+# Render Blueprint for the Career Compass AI monorepo.
+# Keep this file at the repository root, next to the backend and frontend directories.
+databases:
+  - name: careercompass-db
+    databaseName: careercompass
+    user: careercompass
+    plan: free            # free Postgres is time-limited on Render; use a paid plan for anything long-lived
+
+services:
+  # ---------------- FastAPI backend ----------------
+  - type: web
+    name: careercompass-api
+    runtime: python
+    rootDir: "careercompass- ai backend"
+    plan: free            # sleeps when idle; first request after a pause is slow
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: ENV
+        value: prod
+      - key: JWT_SECRET
+        generateValue: true
+      - key: DATABASE_URL
+        fromDatabase:
+          name: careercompass-db
+          property: connectionString
+      - key: USE_SENTENCE_TRANSFORMERS
+        value: "false"    # free instances (512 MB) cannot hold PyTorch; the app uses its built-in fallback embedder
+      - key: SCHEDULER_ENABLED
+        value: "false"    # background reminders need an always-on (paid) instance
+      - key: JOB_PROVIDERS
+        value: seed,remotive
+      - key: GROQ_API_KEY
+        sync: false       # Render asks for this value when you create the Blueprint
+      - key: TELEGRAM_BOT_TOKEN
+        sync: false
+      - key: CORS_ORIGINS
+        sync: false       # set to the frontend URL, e.g. https://careercompass-web.onrender.com (no trailing slash)
+
+  # ---------------- Next.js frontend ----------------
+  - type: web
+    name: careercompass-web
+    runtime: node
+    rootDir: careercompass-frontend
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_VERSION
+        value: 20
+      - key: NEXT_PUBLIC_API_URL
+        sync: false       # set to the API URL, e.g. https://careercompass-api.onrender.com, then redeploy the web service
