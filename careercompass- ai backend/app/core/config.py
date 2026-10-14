@@ -12,7 +12,8 @@ class Settings(BaseSettings):
 
     jwt_secret: str = "change-me-in-production"
     jwt_algorithm: str = "HS256"
-    access_token_minutes: int = 1440
+    access_token_minutes: int = 15
+    refresh_token_days: int = 30
     cors_origins: str = "http://localhost:3000"
     rate_limit_per_minute: int = 120
     max_upload_mb: int = 5
@@ -40,8 +41,8 @@ class Settings(BaseSettings):
     @field_validator("database_url")
     @classmethod
     def _normalise_database_url(cls, v: str) -> str:
-        """Hosts such as Render give 'postgresql://' or 'postgres://'. SQLAlchemy 2.1+ would then pick the psycopg3
-        driver, which is not installed; this project uses psycopg2."""
+        # Hosts such as Render give "postgresql://" or "postgres://"; SQLAlchemy 2.1+ would then pick the
+        # psycopg3 driver, which is not installed. This project uses psycopg2.
         for prefix in ("postgres://", "postgresql://"):
             if v.startswith(prefix):
                 return "postgresql+psycopg2://" + v[len(prefix):]
