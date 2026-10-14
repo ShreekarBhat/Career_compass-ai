@@ -1,7 +1,7 @@
 "use client";
 import { FormEvent, useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
-import { api, getToken, setToken } from "@/lib/api";
+import { api, getRefreshToken, getToken, setTokens } from "@/lib/api";
 import { Button, Notice } from "@/components/ui";
 
 const FEATURES = [
@@ -21,7 +21,7 @@ export default function LoginPage() {
   const [busy, setBusy] = useState(false);
   const [err, setErr] = useState<string | null>(null);
 
-  useEffect(() => { if (getToken()) router.replace("/dashboard"); }, [router]);
+  useEffect(() => { if (getToken() || getRefreshToken()) router.replace("/dashboard"); }, [router]);
 
   async function submit(e: FormEvent) {
     e.preventDefault();
@@ -30,7 +30,7 @@ export default function LoginPage() {
       const r = mode === "login"
         ? await api("/auth/login-json", { body: { email, password } })
         : await api("/auth/register", { body: { email, password, full_name: name } });
-      setToken(r.access_token);
+      setTokens(r.access_token, r.refresh_token);
       router.replace("/dashboard");
     } catch (e: any) { setErr(e.message); } finally { setBusy(false); }
   }

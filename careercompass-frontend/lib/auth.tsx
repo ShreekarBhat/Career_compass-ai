@@ -1,7 +1,7 @@
 "use client";
 import { createContext, useCallback, useContext, useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
-import { api, clearToken, getToken } from "@/lib/api";
+import { api, clearTokens, getRefreshToken, getToken } from "@/lib/api";
 import { Spinner } from "@/components/ui";
 
 type User = { id: number; email: string; full_name: string; telegram_linked: boolean };
@@ -19,10 +19,10 @@ export function AuthGate({ children }: { children: React.ReactNode }) {
   const [user, setUser] = useState<User | null>(null);
 
   const refresh = useCallback(async () => { setUser(await api<User>("/auth/me")); }, []);
-  const logout = useCallback(() => { clearToken(); router.replace("/login"); }, [router]);
+  const logout = useCallback(() => { clearTokens(); router.replace("/login"); }, [router]);
 
   useEffect(() => {
-    if (!getToken()) { router.replace("/login"); return; }
+    if (!getToken() && !getRefreshToken()) { router.replace("/login"); return; }
     refresh().catch(() => router.replace("/login"));
   }, [refresh, router]);
 

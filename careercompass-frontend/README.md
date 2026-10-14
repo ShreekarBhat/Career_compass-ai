@@ -33,4 +33,5 @@ components/ui.tsx    Card, Button, Badge, Bar, ScoreRing, useApi ...
 lib/api.ts           fetch wrapper (JWT header, error handling, 401 -> /login)
 lib/auth.tsx         AuthGate + useAuth()
 ```
-The JWT is kept in `localStorage` (simple for a student project; use httpOnly cookies for production).
+Access and rotating refresh tokens are kept in `localStorage` so sessions survive page reloads and access-token
+expiry. This is suitable for a student project; use httpOnly cookies for production.
