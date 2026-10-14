@@ -1,5 +1,6 @@
 from functools import lru_cache
 
+from pydantic import field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
@@ -11,8 +12,7 @@ class Settings(BaseSettings):
 
     jwt_secret: str = "change-me-in-production"
     jwt_algorithm: str = "HS256"
-    access_token_minutes: int = 15
-    refresh_token_days: int = 30
+    access_token_minutes: int = 1440
     cors_origins: str = "http://localhost:3000"
     rate_limit_per_minute: int = 120
     max_upload_mb: int = 5
@@ -36,6 +36,16 @@ class Settings(BaseSettings):
 
     auto_seed: bool = True
     scheduler_enabled: bool = False
+
+    @field_validator("database_url")
+    @classmethod
+    def _normalise_database_url(cls, v: str) -> str:
+        """Hosts such as Render give 'postgresql://' or 'postgres://'. SQLAlchemy 2.1+ would then pick the psycopg3
+        driver, which is not installed; this project uses psycopg2."""
+        for prefix in ("postgres://", "postgresql://"):
+            if v.startswith(prefix):
+                return "postgresql+psycopg2://" + v[len(prefix):]
+        return v
 
     @property
     def cors_list(self) -> list[str]:
